@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- [Telegram](https://t.me/DramblukerBlog)
+- [VK](https://vk.com/dramblukerblog)
+- [Twitter](https://twitter.com/Drambluker)
+- [LinkedIn](https://www.linkedin.com/in/eric-vlaskin)
+
 <!--
 **Drambluker/drambluker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
